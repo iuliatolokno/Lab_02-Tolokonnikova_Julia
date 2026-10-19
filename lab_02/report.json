@@ -1,0 +1,25 @@
+{
+  "total_events": 5,
+  "by_level": {
+    "INFO": 1,
+    "WARNING": 1,
+    "ERROR": 3
+  },
+  "by_source": {
+    "app": 1,
+    "db": 4
+  },
+  "top_5_error_sources": [
+    {
+      "source": "db",
+      "count": 4
+    },
+    {
+      "source": "app",
+      "count": 1
+    }
+  ],
+  "first_timestamp": "2024-01-01T12:00:00",
+  "last_timestamp": "2026-01-01T12:10:00",
+  "skipped_lines": 0
+}

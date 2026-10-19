@@ -1,0 +1,2 @@
+{"timestamp":"2024-01-01T13:00:00","level":"INFO","source":"worker","message":"job started"}
+{"timestamp":"2024-01-01T13:10:00","level":"CRITICAL","source":"disk","message":"disk full"}

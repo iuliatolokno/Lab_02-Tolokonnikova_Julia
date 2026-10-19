@@ -1,0 +1,6 @@
+timestamp,level,source,message
+2024-01-01T12:00:00,INFO,app,started
+2024-01-01T12:05:00,WARNING,db,slow query
+2024-01-01T12:10:00,ERROR,db,connection failed
+2025-01-01T12:10:00,ERROR,db,connection failed
+2026-01-01T12:10:00,ERROR,db,connection failed
